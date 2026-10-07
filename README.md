@@ -1,16 +1,11 @@
-# React + Vite
+# Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a CTD React project for the React 26.4 cohort. This Todolist project will be used to learn and practice concepts in React building.
 
-Currently, two official plugins are available:
+## Installation & Development instructions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository: `https://github.com/Eduaina/todo-list.git`
+2. Project Navigation: `cd todo-list`
+3. Install Dependencies: `npm install`
+4. Run the development server: `npm run dev`
+The terminal will display a local url `http://localhost:5173`. Open the Url in a browser to view this application
